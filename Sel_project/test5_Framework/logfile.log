@@ -1,0 +1,39 @@
+2022-12-19 16:13:05,604 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 16:14:56,488 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 16:15:31,120 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 16:17:43,805 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 16:18:49,999 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 16:21:45,506 :INFO : test_formSubmission :successful compose of new mail
+2022-12-19 21:42:07,467 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:42:22,243 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:42:33,737 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:42:33,737 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:43:06,675 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:43:15,961 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:43:15,962 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:43:19,226 :INFO : test_formSubmission :successfully sent message
+2022-12-19 21:43:19,366 :INFO : test_formSubmission :successfully got acknowledgement
+2022-12-19 21:43:19,695 :INFO : test_formSubmission :Moving to check the sent item
+2022-12-19 21:43:30,187 :INFO : test_formSubmission :Successfully got sent mail details
+2022-12-19 21:47:04,509 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:47:13,960 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:47:13,960 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:47:57,442 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:48:08,710 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:48:08,710 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:54:44,875 :DEBUG : test_formSubmission :Testdata: {'email': 'demouserneeta@gmail.com', 'password': 'Demo@123', 'receiver_email': 'neeta.chougule05@gmail.com', 'receiver_email_subject': 'demo', 'receiver_email_message_body': 'demo text'}
+2022-12-19 21:54:45,547 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:54:56,928 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:54:56,929 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:56:38,178 :DEBUG : test_formSubmission :Testdata: {'email': 'demouserneeta@gmail.com', 'password': 'Demo@123', 'receiver_email': 'neeta.chougule05@gmail.com', 'receiver_email_subject': 'demo', 'receiver_email_message_body': 'demo text'}
+2022-12-19 21:56:38,861 :INFO : test_formSubmission :successfully entered email
+2022-12-19 21:56:49,628 :INFO : test_formSubmission :successfully entered password
+2022-12-19 21:56:49,629 :INFO : test_formSubmission :successfully Logged in
+2022-12-19 21:56:52,210 :INFO : test_formSubmission :successfully sent message
+2022-12-19 21:56:52,381 :INFO : test_formSubmission :successfully got acknowledgement
+2022-12-19 21:56:55,246 :INFO : test_formSubmission :Moving to check the sent item
+2022-12-19 21:56:55,990 :INFO : test_formSubmission :Successfully got sent mail details
+2022-12-19 21:56:55,990 :DEBUG : test_formSubmission :output_email: neeta.chougule05
+2022-12-19 21:56:55,991 :DEBUG : test_formSubmission :output_subject: demo
+2022-12-19 21:56:55,991 :DEBUG : test_formSubmission :output_message_body: demo text
+2022-12-19 21:56:55,991 :INFO : test_formSubmission :Successfully Executed Testcase
